@@ -1,0 +1,6 @@
+All MultiQC reports-
+SB: laboratory strain
+Cro1: wildtype strain
+pretrimmed: quality analysis of raw data
+posttrimmed: quality analysis of edited data
+STAR: controll of STAR files (how many alignments etc.)
