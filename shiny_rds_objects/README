@@ -1,5 +1,6 @@
-This folder contains all of the RDS objects for the shiny analysis. To use the RDS objects, download an RDS file and in Rstudio
-use the following (This requires sleuth to be installed on your machine. 
+This folder contains the information for all of the RDS objects for the shiny analysis. Unfortunately, 
+large files could not be uploaded on github but can be found on the local hard drive. To use the RDS objects
+follow the explanation on the project page and on the sleuth website. (This requires sleuth to be installed on your machine. 
 If you do not have sleuth installed, visit this page: http://pachterlab.github.io/sleuth/download)
 
 library(sleuth)
