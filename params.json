@@ -1,6 +1,6 @@
 {
   "name": "Hopa course 2016 tribolium transcriptomics",
   "tagline": "This repository holds the projects page for the Tribolium Transcriptomics group in the Host-Parasite Coevolution module  2016.",
-  "body": "# README\r\nThis repository holds the project page for the Tribolium Transcriptomics project in the Host-Parasite Coevolution module 2016. \r\nAuthors: *Jonas Bohn, Marten Kellner, Florian Wuennemann*\r\n",
+  "body": "*INFO* \r\nThis page is thought to be supplemental information to the analysis of the Tribolium Transcriptomics group from the HOPA 2016 Course (University of Muenster). On this page, information regarding the data analysis that is supplied in the github repository. [HOPA_Course_2016_Tribolium_Transcriptomics\r\n](https://github.com/FloWuenne/HOPA_Course_2016_Tribolium_Transcriptomics).",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
