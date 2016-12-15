@@ -1,6 +1,6 @@
 {
   "name": "Hopa course 2016 tribolium transcriptomics",
   "tagline": "This repository holds the projects page for the Tribolium Transcriptomics group in the Host-Parasite Coevolution module  2016.",
-  "body": "*INFO* \r\nThis page is thought to be supplemental information to the analysis of the Tribolium Transcriptomics group from the HOPA 2016 Course (University of Muenster). On this page, information regarding the data analysis that is supplied in the github repository. [HOPA_Course_2016_Tribolium_Transcriptomics\r\n](https://github.com/FloWuenne/HOPA_Course_2016_Tribolium_Transcriptomics).",
+  "body": "#INFO\r\nThis page is thought to be supplemental information to the analysis of the Tribolium Transcriptomics group from the HOPA 2016 Course (University of Muenster). On this page, information regarding the data analysis that is supplied in the github repository.\r\n\r\n# Interactive sleuth analysis\r\nCurrently, due to software incompatabilities on the shinyapps.io server, we were unable to host the interactive shiny analysis of the data online. However the .rds objects that are supplied in the folder [shiny_rds_objects](), can be downloaded and used in Rstudio to create a local shiny object.\r\n\r\n\r\n# Quality Control files\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
