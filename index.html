@@ -27,7 +27,12 @@
 <h1>
 <a id="interactive-sleuth-analysis" class="anchor" href="#interactive-sleuth-analysis" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Interactive sleuth analysis</h1>
 
-<p>Currently, due to software incompatabilities on the shinyapps.io server, we were unable to host the interactive shiny analysis of the data online. However the .rds objects that are supplied in the folder <a href="">shiny_rds_objects</a>, can be downloaded and used in Rstudio to create a local shiny object.</p>
+<p>Currently, due to software incompatabilities on the shinyapps.io server, we were unable to host the interactive shiny analysis of the data online. However the .rds objects that are supplied in the folder <a href="https://github.com/FloWuenne/HOPA_Course_2016_Tribolium_Transcriptomics/tree/master/shiny_rds_objects">shiny_rds_objects</a>, can be downloaded and used in Rstudio to create a local shiny object. To open an interactive sleuth server on your local machine, download the rds object and perform the following in RStudio. (This requires sleuth to be installed on your machine. If you do not have sleuth installed, visit this page: <a href="http://pachterlab.github.io/sleuth/download">http://pachterlab.github.io/sleuth/download</a>)</p>
+
+<pre><code>library(sleuth)
+so &lt;- readRDS("YOUR_RDS_FILE.rds")
+shiny_live(so)
+</code></pre>
 
 <h1>
 <a id="quality-control-files" class="anchor" href="#quality-control-files" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Quality Control files</h1>
