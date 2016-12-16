@@ -1,10 +1,10 @@
 
-
 # INFO
 This page is thought to be supplemental data to the analysis of the Tribolium Transcriptomics group from the HOPA 2016 Course (University of Muenster). This page serves mainly as a hub for the Sleuth shiny server that provide interactive analysis of the RNA-seq data. On this page you will be able to find the analysis for the 6h timepoint. The 18h timepoints were not uploaded due to limited instances allowed by shinyapps.io in the free version. Please be aware, that shinyapps.io does only allow 25h of active usage for each server under the free license so if a server can't be reached it might be that the data limit for the month is reached!
 
 ## Data 
 Data was analzyed from [Behrens et al 2014 BMC Genomics](http://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-445).
+
 FASTQ files were downloaded from: 
 
 ## Links to Sleuth Shiny Server
@@ -15,8 +15,8 @@ To open the interactive shiny Server for the comparison of each condition  VS th
 
 ## Cro1
 * [Cro1_BttO_6h vs Cro1_NC_6h]()
-* [Cro1_BttP_6h vs Cro1_NC_6h]()
-* [Cro1_PC_6h vs Cro1_NC_6h]()
+* [Cro1_BttP_6h vs Cro1_NC_6h](https://jonasbohn.shinyapps.io/cro1_bttp_6h/)
+* [Cro1_PC_6h vs Cro1_NC_6h](https://jonasbohn.shinyapps.io/cro1_pc_6h/)
 
 
 ## SB
