@@ -1,5 +1,5 @@
 
-![Tribolium Castaneum](https://upload.wikimedia.org/wikipedia/en/5/5c/Red_Flour_Beetle.jpg= 100x20)
+![Tribolium Castaneum](https://upload.wikimedia.org/wikipedia/en/5/5c/Red_Flour_Beetle.jpg)
 
 # INFO
 This page is thought to be supplemental data to the analysis of the Tribolium Transcriptomics group from the HOPA 2016 Course (University of Muenster). This page serves mainly as a hub for the Sleuth shiny server that provide interactive analysis of the RNA-seq data. On this page you will be able to find the analysis for the 6h timepoint. The 18h timepoints were not uploaded due to limited instances allowed by shinyapps.io in the free version. Please be aware, that shinyapps.io does only allow 25h of active usage for each server under the free license so if a server can't be reached it might be that the data limit for the moth is reached!
