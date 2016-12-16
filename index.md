@@ -19,7 +19,7 @@ To open the interactive shiny Server for the comparison of each condition  VS th
 * [SB_PC_6h vs SB_NC_6h]()
 
 # Interactive sleuth analysis
-The .rds objects that are supplied in the folder [shiny_rds_objects](https://github.com/FloWuenne/HOPA_Course_2016_Tribolium_Transcriptomics/tree/master/shiny_rds_objects), can be downloaded and used in Rstudio to create a local shiny object. To open an interactive sleuth server on your local machine, download the rds object and perform the following in RStudio. (This requires sleuth to be installed on your machine. If you do not have sleuth installed, visit this page: http://pachterlab.github.io/sleuth/download)
+The .rds objects that are supplied in the folder [shiny_rds_objects](https://github.com/FloWuenne/HOPA_Course_2016_Tribolium_Transcriptomics/tree/master/shiny_rds_objects), can be downloaded and used in Rstudio to create a local shiny object. To open an interactive sleuth server on your local machine, download the rds object and perform the following in RStudio. (This requires sleuth to be installed on your machine. If you do not have sleuth installed, visit this page: [http://pachterlab.github.io/sleuth/download](http://pachterlab.github.io/sleuth/download))
 
     library(sleuth)
     so <- readRDS("YOUR_RDS_FILE.rds")
