@@ -5,7 +5,7 @@ This page is thought to be supplemental data to the analysis of the Tribolium Tr
 ## Data 
 Data was analzyed from [Behrens et al 2014 BMC Genomics](http://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-445).
 
-FASTQ files were downloaded from: 
+FASTQ files were downloaded from: [https://trace.ddbj.nig.ac.jp/DRASearch/study?acc=SRP033773](https://trace.ddbj.nig.ac.jp/DRASearch/study?acc=SRP033773)
 
 ## Links to Sleuth Shiny Server
 
