@@ -15,7 +15,7 @@ To open the interactive shiny Server for the comparison of each condition  VS th
 
 
 ## Cro1
-**Currently, the Cro1 links are not working but will be fixed as soon as possible!**
+** Update 2016-12-21 : Cro1 Shiny servers are now up and running as well!!!**
 
 * [Cro1_BttO_6h vs Cro1_NC_6h](https://flowuenne.shinyapps.io/cro1_btto_6h/)
 * [Cro1_BttP_6h vs Cro1_NC_6h](https://flowuenne.shinyapps.io/cro1_bttp_6h/)
